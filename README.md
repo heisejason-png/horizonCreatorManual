@@ -50,3 +50,4 @@ When you want to "generate the PDF" make sure the preview tab is open. Click thi
 ```
 Export > Chrome (Puppeteer) > PDF
 ```
+Created by Jason Scott Heise
